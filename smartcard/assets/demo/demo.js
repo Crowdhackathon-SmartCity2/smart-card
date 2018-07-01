@@ -1,0 +1,9 @@
+demo = {
+
+    initGoogleMaps: function(){
+
+    },
+
+
+
+};
